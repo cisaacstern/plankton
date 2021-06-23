@@ -28,7 +28,7 @@ In [1]: import numpy as np
 
 In [2]: import plankton
 ```
-Our custom function, `calculate_flor` takes a numpy array as input, so we'll define one here:
+Our custom function, `calculate_flor`, takes a numpy array as input, so we'll define one here:
 
 ```python
 In [3]: ocean_array = np.array([4.5, 2.1, 0.2])
