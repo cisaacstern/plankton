@@ -5,7 +5,7 @@ To clone this project to your local machine, run:
 ```
 ➜ git clone https://github.com/cisaacstern/plankton.git && cd plankton
 ```
-> **Note:**: `&&` is used to chain two shell commands together. These commands could also be run one-at-a-time.
+> **Note:** `&&` is used to chain two shell commands together. These commands could also be run one-at-a-time.
 
 You will now be inside the project's top-level directory, which contains an `environment.yml` file defining a project-specific `conda` environment named `plankton`. To build and activate it, run:
 
@@ -19,7 +19,7 @@ With the `plankton` environment activated, you can now enter the `ipython` inter
 ➜ ipython
 ```
 
-> **Note:**: To exit the interpreter at any time, use `Ctrl+D`.
+> **Note:** To exit the interpreter at any time, use `Ctrl+D`.
 
 In the interpreter, we will try out our functions. To start, import numpy along with our custom module, `plankton.py`, as follows:
 
